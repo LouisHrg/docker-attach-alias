@@ -2,7 +2,7 @@
 
 Just put this piece of code inside your .zshrc to quickly attch your term to one of your container.
 
-Type ```attch (Press tab)```
+Type ```attach {Press tab}```
 
 And voilà !
 
